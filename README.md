@@ -1,17 +1,9 @@
 Hello!  
-I'm currently a contracted private tutor who specializes in graduate level applied quantiative and/or spatial analysis!
-I'm also in the works of launching my own private tutoring brand: >>Stay-Ahead-Tutors- -->!
-Check out my website so far, hosted and applying my nginx configurations and node.js API present ed in my "NginX_node.js_PostgreSQL--STACK" github page!  Happy Hosting!
-and check me out if you nerds need any help learning the basics of R or perhaps ArcGIS Suite. 
-      I'd offer my java skills, but unless you're using github, and still having trouble with
-            introductory to intermediate algorythms and datastructures, you're probababaly applying object oriented languages at level above me.
+I'm currently a contracted private tutor who specializes in graduate level applied quantitative and/or spatial analysis!
+Checkout my services available at https://stayaheadtutors.com! >>Stay-Ahead-Tutors- -->
+I take pride in hosting, coding, and maintaining all aspects of this website, which are implemented using API and hosting code/configurations similar to what can be found in my "NginX_node.js_PostgreSQL--STACK" GitHub page!  Happy Hosting!
+Check me out if you nerds need any help learning the basics of R or perhaps ArcGIS Suite. 
+      --> In terms of Java, I am becoming recently more adept at teaching introductory to intermediate data structures and algorithmic course material and currently attempting to become better at using Spring boot, to hopefully replace my current node.js API instances.  I'm just not impressed by JavaScript, and the more I learn about it, the more I honestly appreciate the structure and reliability of Java syntax!  It's just too messy and arbitrarily designed for my liking so far in my abilities.
         
-See before I can learn more advanced usage and professional applications, I must master the basics.  This has let me down a road realizing that modern computerscience is a mess!
-The profits created by most new products and advancements in computer science are higher than the actual value of the products themselves.... this leads to cyclically repeating
-mistakes, fixes, and creations throughout today's technology.  We must not only all take a step back, and finish our RESPONSIBILITY to understand the history, full stack, and 
-scope of all our current programming, but we must MUCH BETTER set up our next generation for success.  This requires a CORE CURRICULUM for middle school students, that isn't
-outdated, overly-abstracted, and otherwise just overall crappy, leading to another generation of 15% of the people understanding technology, and the other 85% scared and just
-shoveling money over to over-valued crap, issued by massive, unwatched conglomerates running ammock, having very poor levels of responsibility, competition, and pressure from
-knowledgable consumers forcing a high bar of ethics.
 
-Anywho, I also like baseball.
+Anywho, I also like baseball, playing my piano downtown for tourists, and of course, teaching others the conveniences of better-understood computer science fundamentals!
